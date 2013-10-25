@@ -1,26 +1,97 @@
 #General Information
 No date set yet.
-There should be a tiny entry fee to assure attendance, but nothing too expensive.
-
-###Team
-Laura (organiser, cupcake-fairy)
-
-Floor (organiser, sponsor-seeking elf)
-
-Franz Josef (organiser, hijack-master)
-
-...and more
 
 
-###Ideas for Venues
-Any thoughts?
+## Team
 
-###Ideas for Catering
-yum yum
+ * Laura
+ * Floor
+ * Franz Josef
 
-###Ideas for Sponsors
-..add proposed info here
+...add your name here
 
-###Ideas for Speakers
-2 Tracks (devs and bloggers)
+---
 
+## General ToDo list
+
+ 1. Download "Vereinsstatuten"
+ 2. Register a "Verein" named "Verein für WordPress und Förderung der Open Source Kultur in Österreich"
+ 3. Set the MeetUp to be the "Mitgliederversammlung"
+
+---
+
+## Venues
+
+### Possible Locations
+
+_just brainstorming..._
+
+ * WUK
+ * MAK
+ * Universities
+ * FHs (Technicum Wien, 2. District, contains the DrupalCamp this year)
+ * ...
+
+...place proposals here
+
+### Notes
+
+ * Clear statement about cleaning responsibilities in the contract.
+ * Firedepartment check - get Evacuation plans up front from Venue head office
+
+---
+
+## Catering
+
+### Notes
+
+ * One person constantly has to care about catering. Especially about the waiters (those like to hide all the time).
+ * One person from the catering has to be named upfront (min. two weeks) as responsible for the catering. Has to be at the venue all the time.
+ * Clear in contract rule that a minimum amount of waiters has to be constantly on each bar/whatever.
+ * Rule #2 is that they have to keep the place clean and have to have one girl/guy to constantly care about left over dishes, etc.
+
+---
+
+## Sponsors
+
+### To Ask
+
+ * Adobe - heard it's a great and constant Sponsor in Germany/WPCamp; also they got Adope set of products;
+ * Google - they sponsor the _Google Summer of Code_ where WP often participated. Maybe they'll jump in.
+ * Microsoft - remember Bing?
+ * MarketPress - Inpsyde G.m.b.H; The guys behind WordPress Germany.
+ * Stadt Wien
+ * Ministerien (Fundings/Förderungen)
+ 
+### ToDo
+
+ * Make a list of Sponsors of other European WordCamps
+ * Make a plan for the sponsors. As they aren't going to be allowed to attend for speaker places, we need a pretty good place for them where everybody visits them.
+ * Maybe give them tables at the hackaton so they can work together with who ever wants.
+
+---
+
+## Event
+
+Two Day event. Day (1) Talks - Day (2) Hackaton
+
+Maybe Workshops in parallel on day (1)? Adobe got extremly good tech people on design fairs. Could maybe offer a premium sponsor package that as well contains an option for a workshop.
+
+---
+
+## Speakers
+
+---
+
+## Tracks
+
+Two Tracks: Developers, Bloggers/Publishers
+
+Possible third track for "Business/Agencies".
+
+
+##
+
+## General notes:
+
+* There should be a tiny entry fee to assure attendance, but nothing too expensive.
