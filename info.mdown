@@ -62,6 +62,12 @@ _just brainstorming..._
  * MarketPress - Inpsyde G.m.b.H; The guys behind WordPress Germany.
  * Stadt Wien
  * Ministerien (Fundings/Förderungen)
+ * CoWorking Spaces
+ * Restaurants/Bars/Cafes for food/drinks
+ * Telecoms
+ * Universities
+ * Banks
+ * Registrars like [nic.at](https://www.nic.at/)
  
 ### ToDo
 
