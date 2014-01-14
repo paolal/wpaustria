@@ -7,7 +7,8 @@ No date yet set.
  * Laura
  * Floor
  * Franz Josef
-
+ * Paolo
+ 
 ...add your name here
 
 ---
@@ -21,6 +22,11 @@ No date yet set.
  1. Download "Vereinsstatuten"
  2. Register a "Verein" named "Verein für WordPress und Förderung der Open Source Kultur in Österreich"
  3. Set the MeetUp to be the "Mitgliederversammlung"
+ 
+ Paolo: I think that is called 'Premature Optimization' (http://en.wikipedia.org/wiki/Program_optimization).
+ One of the advantages of organizing a wordCamp is to have the option to rely on the WordPress Foundation for the legal
+ side of things and not need to set up a legal structure on our own, thus sparing precious time ( and eventually a bit of money too).
+ 
 
 ---
 
@@ -57,6 +63,8 @@ _just brainstorming..._
 ---
 
 ## Sponsors
+
+Local sponsors to be preferred to global ones.
 
 ### To Ask
 
@@ -100,9 +108,11 @@ Two Tracks: Developers, Bloggers/Publishers
 
 Possible third track for "Business/Agencies".
 
+Paolo: Three tracks are too many, even with a huge attendance.
 
 ##
 
 ## General notes:
 
 * There should be a tiny entry fee to assure attendance, but nothing too expensive.
+* 30€ for a one ady event, 45€ for a two day one. Contribute day / Hackathon should be free.
